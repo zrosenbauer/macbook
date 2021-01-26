@@ -1,7 +1,7 @@
 # Macbook 
 
 [@zrosenbauers](https://twitter.com/zrosenbauer)'s setup script(s) for new Macbooks. These scripts are NOT 
-idempotent aka running once should be enough.
+idempotent aka you can only run them once.
 
 ## Getting Started
 
