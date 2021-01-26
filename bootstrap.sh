@@ -46,4 +46,8 @@ nvm alias default stable
 nvm use default
 npm i -g npm
 
+## 11. Copy SSH Config
+
+cp ./resources/ssh_config ~/.ssh/config
+
 echo "You are ready for take off!"
